@@ -4,3 +4,33 @@
     width: 10px;
     height: 10px;
 }
+#pulsante1{
+    background-color:cyan;
+    border: solid 1px #ffffff;
+    width: 10px;
+    height: 10px;
+}
+#pulsante2{
+    background-color:blue;
+    border: solid 1px #ffffff;
+    width: 10px;
+    height: 10px;
+}
+#pulsante3{
+    background-color:green;
+    border: solid 1px #ffffff;
+    width: 10px;
+    height: 10px;
+}
+#pulsante4{
+    background-color:purple;
+    border: solid 1px #ffffff;
+    width: 10px;
+    height: 10px;
+}
+#pulsante5{
+    background-color:yellow;
+    border: solid 1px #ffffff;
+    width: 10px;
+    height: 10px;
+}
