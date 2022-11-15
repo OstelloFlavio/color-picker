@@ -1,0 +1,6 @@
+#pulsante_premuto{
+    background-color:red;
+    border: solid 1px #000000;
+    width: 10px;
+    height: 10px;
+}
