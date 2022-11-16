@@ -1,3 +1,2 @@
 
-stima = circa 2-3h
-orario attuale = 40m
+stima = 2h
