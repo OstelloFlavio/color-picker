@@ -45,3 +45,19 @@ function yellow(bottone)
     document.body.style.backgroundColor="#FFFF00";
     bottone.id ='pulsante_premuto'
 }
+
+function search(modulo)
+{
+    if(event.key === 'Enter')
+    {
+        let regex = /[0-9A-Fa-f]{6}/g;
+        if(modulo.value.match(regex))
+        {
+            document.body.style.backgroundColor= "#" + modulo.value;
+        }
+        else
+        {
+            alert("Inserire un codice esadecimale corretto");
+        }
+    }
+}
